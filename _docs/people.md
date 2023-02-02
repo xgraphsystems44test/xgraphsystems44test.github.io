@@ -29,7 +29,7 @@ Professor Leiserson is a member of the National Academy of Engineering and a
 Fellow of four professional societies: ACM, AAAS, SIAM, and IEEE.-->
 
 ## Tim Kaler
-[Tim Kaler](tfk.mit.edu) is a postdoctoral associate at CSAIL within the
+[Tim Kaler](https://tfk.mit.edu) is a postdoctoral associate at CSAIL within the
 Supertech research group.
 
 ## Alexandros-Stavros Iliopoulos
@@ -38,7 +38,7 @@ postdoctoral associate at MIT at CSAIL within the Supertech research group.
 
 ## Tao Schardl
 
-[Tao Schardl](neboat.mit.edu) is a research scientist at CSAIL within the
+[Tao Schardl](https://neboat.mit.edu) is a research scientist at CSAIL within the
 Supertech research group.
 
 
