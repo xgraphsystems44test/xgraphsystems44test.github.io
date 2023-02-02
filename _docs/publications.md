@@ -43,5 +43,6 @@ Alexandros-Stavros Iliopoulos, and Charles Leiserson. Soon to be available on
 MIT DSpace.
 
 
+**Busy GPUs: Sampling and pipelining method speeds up deep learning on large graphs** MIT News article written by Lauren Hinkel available [here](https://news.mit.edu/2022/sampling-pipelining-method-speeds-deep-learning-large-graphs-1129).
 
 
