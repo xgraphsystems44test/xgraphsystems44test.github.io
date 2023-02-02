@@ -1,11 +1,17 @@
 - title: Getting Started
   docs:
   - home
-  - themes
-  - customization
-
-- title: Examples
+  - install
+  - GraphSAGE
+    #- customization
+- title: About SALIENT
   docs:
-  - cheatsheet
-  - font-awesome
-  - bootstrap
+  - people
+  - publications
+
+    #- title: Examples
+    #  docs:
+    #  - GraphSAGE
+    #    #- cheatsheet
+    #    #- font-awesome
+    #    #- bootstrap

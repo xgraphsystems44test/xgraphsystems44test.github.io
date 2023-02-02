@@ -1,14 +1,17 @@
 # Site settings
-title: Fast Graph Learning (FGL)
+title: Under construction.
 email: your-email@domain.com
 description: >
-  Fast code for graph learning. 
+        Under construction.
 lang: en-US
 
-baseurl: "/" # the subpath of your site, e.g. /blog/
+
+#SALIENT is a system for accelerating the training and inference of graph neural networks in both the single GPU and multi-machine multi-gpu settings.
+
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: https://xgraphsystems44test.github.io/ # the base hostname & protocol for your site
-git_address: https://github.com/aksakalli/jekyll-doc-theme
-git_edit_address: https://github.com/aksakalli/jekyll-doc-theme/blob/gh-pages
+git_address: https://github.com/xgraphsystems44test/xgraphsystems44test.github.io/
+git_edit_address: https://github.com/xgraphsystems44test/xgraphsystems44test.github.io/
 
 # theme options from https://bootswatch.com/3/
 # comment out this to use default Bootstrap

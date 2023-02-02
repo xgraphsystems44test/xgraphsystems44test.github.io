@@ -10,16 +10,16 @@ html {
   
   .navbar-brand{
     img{
-      margin: -$navbar-padding-vertical 0;
-      height: $navbar-height;
-      padding: 10px 0;
+      margin: -2*$navbar-padding-vertical 0;
+      height: $navbar-height + 20;
+      padding: 0px 0;
     }
   }
   
   
   .header-container {
     background-color: black;
-    background: url('../img/bg.jpg') no-repeat 50% 0;
+    background: url('../img/bg.png') no-repeat 50% 0;
     color: #fff;
   
     h1 {
